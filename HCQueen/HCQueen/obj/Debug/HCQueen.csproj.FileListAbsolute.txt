@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\HCQueen\HCQueen\bin\Debug\HCQueen.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\HCQueen\HCQueen\bin\Debug\HCQueen.exe
+c:\users\asus\documents\visual studio 2015\Projects\HCQueen\HCQueen\bin\Debug\HCQueen.pdb
+c:\users\asus\documents\visual studio 2015\Projects\HCQueen\HCQueen\obj\Debug\HCQueen.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\HCQueen\HCQueen\obj\Debug\HCQueen.exe
+c:\users\asus\documents\visual studio 2015\Projects\HCQueen\HCQueen\obj\Debug\HCQueen.pdb
